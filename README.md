@@ -1,17 +1,16 @@
 # SuperMarket-Sales-Analysis
 Project Overview:
+🛒 SuperMarket Sales Analysis
 End-to-end data analytics project: raw sales data cleaned with Python, analyzed with SQL, visualized with Matplotlib/Seaborn, and presented in an interactive Power BI dashboard.
 
-Tools Used
-Python – Pandas, NumPy (data cleaning)
-MySQL – SQL queries for business analysis
-Matplotlib & Seaborn – statistical charts
-Power BI – interactive 3-page dashboard (drill-through, tooltips, dynamic titles)
+💼 Built With
+Python (Pandas, NumPy) — cleaned inconsistent labels, handled nulls, fixed date formats, validated Sales/Profit calculations
+MySQL — grouped, filtered, and aggregated queries for region, category, and customer-level analysis
+Matplotlib & Seaborn — a 6-panel visual dashboard including a correlation heatmap and sales trend lines
+Power BI — a 3-page interactive dashboard with drill-through, dynamic titles, custom tooltips, and cross-filtering slicers
 
-Key Insights
-Total Sales: ₹2.03M
-Total Profit: ₹556.07K
-Total Orders: 1K
+🔑 Key Insights
+Total Sales: ₹2.03M | Total Profit: ₹556.07K | Total Orders: 1K
 South is the top-performing region by sales
 Snacks and Beverages are the highest-selling categories
 UPI is the most-used payment mode (37.7%)
